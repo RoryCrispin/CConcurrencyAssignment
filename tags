@@ -1,0 +1,263 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BURST_TIME	req1.c	/^#define BURST_TIME /;"	d	file:
+BURST_TIME	req1_b.c	/^#define BURST_TIME /;"	d	file:
+BURST_TIME	req5.c	/^#define BURST_TIME /;"	d	file:
+BURST_TIME	req6.c	/^#define BURST_TIME /;"	d	file:
+FCFS	req1.c	/^void FCFS(){$/;"	f
+JOBS_INBUF	req5.c	/^#define JOBS_INBUF /;"	d	file:
+JOBS_INBUF	req6.c	/^#define JOBS_INBUF /;"	d	file:
+JOBS_REMOVED	req5.c	/^#define JOBS_REMOVED /;"	d	file:
+JOBS_REMOVED	req6.c	/^#define JOBS_REMOVED /;"	d	file:
+JOB_INDEX	req1.c	/^#define JOB_INDEX /;"	d	file:
+JOB_INDEX	req1_b.c	/^#define JOB_INDEX /;"	d	file:
+JOB_INDEX	req5.c	/^#define JOB_INDEX /;"	d	file:
+JOB_INDEX	req6.c	/^#define JOB_INDEX /;"	d	file:
+NUMBER_OF_CONSUMERS	req4.c	/^#define NUMBER_OF_CONSUMERS /;"	d	file:
+NUMBER_OF_CONSUMERS	req5.c	/^#define NUMBER_OF_CONSUMERS /;"	d	file:
+NUMBER_OF_CONSUMERS	req6.c	/^#define NUMBER_OF_CONSUMERS /;"	d	file:
+NUMBER_OF_JOBS	req1.c	/^#define NUMBER_OF_JOBS /;"	d	file:
+NUMBER_OF_JOBS	req1_b.c	/^#define NUMBER_OF_JOBS /;"	d	file:
+NUMBER_OF_JOBS	req2.c	/^#define NUMBER_OF_JOBS /;"	d	file:
+NUMBER_OF_JOBS	req3.c	/^#define NUMBER_OF_JOBS /;"	d	file:
+NUMBER_OF_JOBS	req4.c	/^#define NUMBER_OF_JOBS /;"	d	file:
+NUMBER_OF_JOBS	req5.c	/^#define NUMBER_OF_JOBS /;"	d	file:
+NUMBER_OF_JOBS	req6.c	/^#define NUMBER_OF_JOBS /;"	d	file:
+PRIORITY	req1.c	/^#define PRIORITY /;"	d	file:
+PRIORITY	req1_b.c	/^#define PRIORITY /;"	d	file:
+PRIORITY	req5.c	/^#define PRIORITY /;"	d	file:
+PRIORITY	req6.c	/^#define PRIORITY /;"	d	file:
+QUEUE_SIZE	req3.c	/^#define QUEUE_SIZE /;"	d	file:
+QUEUE_SIZE	req4.c	/^#define QUEUE_SIZE /;"	d	file:
+QUEUE_SIZE	req5.c	/^#define QUEUE_SIZE /;"	d	file:
+QUEUE_SIZE	req6.c	/^#define QUEUE_SIZE /;"	d	file:
+REMAINING_TIME	req1.c	/^#define REMAINING_TIME /;"	d	file:
+REMAINING_TIME	req1_b.c	/^#define REMAINING_TIME /;"	d	file:
+REMAINING_TIME	req5.c	/^#define REMAINING_TIME /;"	d	file:
+REMAINING_TIME	req6.c	/^#define REMAINING_TIME /;"	d	file:
+TIME_SLICE	req1_b.c	/^#define TIME_SLICE /;"	d	file:
+TIME_SLICE	req6.c	/^#define TIME_SLICE /;"	d	file:
+addThereadTime	req5.c	/^void addThereadTime(int time){$/;"	f
+addThereadTime	req6.c	/^void addThereadTime(int time){$/;"	f
+aiJobs	req1.c	/^int aiJobs[NUMBER_OF_JOBS][4];$/;"	v
+aiJobs	req1_b.c	/^int aiJobs[NUMBER_OF_JOBS][4];$/;"	v
+bubbleSort	req1_b.c	/^void bubbleSort(int list[][4], int size)$/;"	f
+cloneRow	req1_b.c	/^void cloneRow(int *a, int *b){$/;"	f
+cloneRow	req5.c	/^void cloneRow(int *a, int *b){$/;"	f
+cloneRow	req6.c	/^void cloneRow(int *a, int *b){$/;"	f
+consumer	req2.c	/^void * consumer(void *arg){$/;"	f
+consumer	req3.c	/^void * consumer(void *arg){$/;"	f
+consumer	req4.c	/^void * consumer(void *arg){$/;"	f
+consumer	req5.c	/^void * consumer(int consumerIDarg){$/;"	f
+consumer	req6.c	/^void * consumer(void*  consumerIDarg_ptr){$/;"	f
+consumerCriticalSectionWork	req6.c	/^void consumerCriticalSectionWork(int * job){$/;"	f
+consumerID	req5.c	/^__thread int consumerID;$/;"	v
+consumerID	req6.c	/^__thread int consumerID;$/;"	v
+consumerWork	req5.c	/^void consumerWork(int* job){$/;"	f
+consumerWork	req6.c	/^void consumerWork(int* job){$/;"	f
+cur_time	req1.c	/^int cur_time;$/;"	v
+cur_time	req1_b.c	/^int cur_time;$/;"	v
+currentQueueCount	req5.c	/^int currentQueueCount;$/;"	v
+currentQueueCount	req6.c	/^int currentQueueCount;$/;"	v
+dequeue	req3.c	/^int dequeue(){$/;"	f
+dequeue	req4.c	/^int dequeue(){$/;"	f
+dequeue	req5.c	/^int* dequeue(){$/;"	f
+dequeue	req6.c	/^int* dequeue(){$/;"	f
+emptyChar	req3.c	/^#define emptyChar /;"	d	file:
+emptyChar	req4.c	/^#define emptyChar /;"	d	file:
+enqueue	req3.c	/^int enqueue(char item){$/;"	f
+enqueue	req4.c	/^int enqueue(char item){$/;"	f
+enqueue	req5.c	/^int * enqueue(){$/;"	f
+enqueueJob	req5.c	/^int * enqueueJob(int i)$/;"	f
+enqueueJob	req6.c	/^int * enqueueJob(int i)$/;"	f
+enqueueWithJobRef	req6.c	/^void enqueueWithJobRef(int * job, int deltaTime){$/;"	f
+enqueueWithParams	req6.c	/^int * enqueueWithParams(int jobIndex, int bTime, int remTime, int priority){$/;"	f
+finishTime	req1.c	/^int finishTime[NUMBER_OF_JOBS];$/;"	v
+finishTime	req1_b.c	/^int finishTime[NUMBER_OF_JOBS];$/;"	v
+finishTime	req6.c	/^int finishTime[NUMBER_OF_JOBS];$/;"	v
+finishedProducing	req2.c	/^int finishedProducing;$/;"	v
+finishedProducing	req3.c	/^int finishedProducing;$/;"	v
+finishedProducing	req4.c	/^int finishedProducing;$/;"	v
+finishedProducing	req5.c	/^int finishedProducing;$/;"	v
+finishedProducing	req6.c	/^int finishedProducing;$/;"	v
+forEachInQueue	req5.c	/^void forEachInQueue(void (*queueAction)(int*)){$/;"	f
+forEachInQueue	req6.c	/^void forEachInQueue(void (*queueAction)(int*)){$/;"	f
+fronti	req3.c	/^int fronti;$/;"	v
+fronti	req4.c	/^int fronti;$/;"	v
+fronti	req5.c	/^int fronti; \/\/These ints point to the front and rear of the array.$/;"	v
+fronti	req6.c	/^int fronti; \/\/These ints point to the front and rear of the array.$/;"	v
+generateAndEnqueue	req6.c	/^int * generateAndEnqueue(){$/;"	f
+generateJobs	req1.c	/^void generateJobs()$/;"	f
+generateJobs	req1_b.c	/^void generateJobs()$/;"	f
+getArrayAvg	req1.c	/^double getArrayAvg(int *array, int length){$/;"	f
+getArrayAvg	req1_b.c	/^double getArrayAvg(int *array, int length){$/;"	f
+getArrayAvg	req5.c	/^double getArrayAvg(int *array, int length){$/;"	f
+getArrayAvg	req6.c	/^double getArrayAvg(int *array, int length){$/;"	f
+getArraySum	req1.c	/^double getArraySum(int *array, int length){$/;"	f
+getArraySum	req1_b.c	/^double getArraySum(int *array, int length){$/;"	f
+getArraySum	req5.c	/^double getArraySum(int *array, int length){$/;"	f
+getArraySum	req6.c	/^double getArraySum(int *array, int length){$/;"	f
+getAverageRuntime	req1.c	/^double getAverageRuntime(){$/;"	f
+getAverageRuntime	req1_b.c	/^double getAverageRuntime(){$/;"	f
+getAverageRuntime	req6.c	/^double getAverageRuntime(){$/;"	f
+getDifferenceInMilliSeconds	req1.c	/^long int getDifferenceInMilliSeconds(struct timeval start, struct timeval end)$/;"	f
+getDifferenceInMilliSeconds	req1_b.c	/^long int getDifferenceInMilliSeconds(struct timeval start, struct timeval end)$/;"	f
+getDifferenceInMilliSeconds	req5.c	/^long int getDifferenceInMilliSeconds(struct timeval start, struct timeval end)$/;"	f
+getDifferenceInMilliSeconds	req6.c	/^long int getDifferenceInMilliSeconds(struct timeval start, struct timeval end)$/;"	f
+getIndex	req3.c	/^int getIndex(int loc) {$/;"	f
+getIndex	req4.c	/^int getIndex(int loc) {$/;"	f
+getIndex	req5.c	/^int getIndex(int loc) {$/;"	f
+getIndex	req6.c	/^int getIndex(int loc) {$/;"	f
+getNthElement	req6.c	/^int * getNthElement(int n){$/;"	f
+getNumItemsWithPriority	req6.c	/^int getNumItemsWithPriority(int query){$/;"	f
+getNumItemsWithPriority_	req6.c	/^int getNumItemsWithPriority_(int priorityq){$/;"	f
+getQueueSize	req3.c	/^int getQueueSize(){$/;"	f
+getQueueSize	req4.c	/^int getQueueSize(){$/;"	f
+getQueueSize	req5.c	/^int getQueueSize(){$/;"	f
+getQueueSize	req6.c	/^int getQueueSize(){$/;"	f
+getRunningtime	req1.c	/^int getRunningtime(int index){$/;"	f
+getRunningtime	req1_b.c	/^int getRunningtime(int index){$/;"	f
+getRunningtime	req6.c	/^int getRunningtime(int index){$/;"	f
+getSem	req2.c	/^int getSem(sem_t * sem){$/;"	f
+getThreadTime	req5.c	/^int getThreadTime(){$/;"	f
+getThreadTime	req6.c	/^int getThreadTime(){$/;"	f
+getTopOfQueue	req5.c	/^int * getTopOfQueue(){$/;"	f
+getTopOfQueue	req6.c	/^int * getTopOfQueue(){$/;"	f
+initQueue	req3.c	/^void initQueue(){$/;"	f
+initQueue	req4.c	/^void initQueue(){$/;"	f
+initQueue	req5.c	/^void initQueue(){$/;"	f
+initQueue	req6.c	/^void initQueue(){$/;"	f
+insertItemSorted	req6.c	/^void insertItemSorted(){$/;"	f
+isEmpty	req3.c	/^int isEmpty(){$/;"	f
+isEmpty	req4.c	/^int isEmpty(){$/;"	f
+isEmpty	req5.c	/^int isEmpty(){$/;"	f
+isEmpty	req6.c	/^int isEmpty(){$/;"	f
+isFull	req3.c	/^int isFull(){$/;"	f
+isFull	req4.c	/^int isFull(){$/;"	f
+isFull	req5.c	/^int isFull(){$/;"	f
+isFull	req6.c	/^int isFull(){$/;"	f
+isQueueEmpty	req1_b.c	/^int isQueueEmpty(int max){$/;"	f
+jobFinished	req1.c	/^void jobFinished(int index){$/;"	f
+jobFinished	req1_b.c	/^void jobFinished(int index){$/;"	f
+jobFinished	req6.c	/^void jobFinished(int index){$/;"	f
+jobStarted	req1.c	/^void jobStarted(int index, int s_Time){$/;"	f
+jobStarted	req1_b.c	/^void jobStarted(int index, int s_Time){$/;"	f
+jobStarted	req5.c	/^void jobStarted(int index, int s_Time){$/;"	f
+jobStarted	req6.c	/^void jobStarted(int index, int s_Time){$/;"	f
+jobsGenerated	req5.c	/^int jobsGenerated;$/;"	v
+jobsGenerated	req6.c	/^int jobsGenerated;$/;"	v
+jobsProduced	req5.c	/^int jobsProduced;$/;"	v
+jobsProduced	req6.c	/^int jobsProduced;$/;"	v
+jobsRemoved	req5.c	/^int jobsRemoved;$/;"	v
+jobsRemoved	req6.c	/^int jobsRemoved;$/;"	v
+main	req1.c	/^int main()$/;"	f
+main	req1_b.c	/^int main()$/;"	f
+main	req2.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	req3.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	req4.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	req5.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	req6.c	/^	int main(int argc, char *argv[]) {$/;"	f
+moveFrontToBackOfQueue	req6.c	/^void moveFrontToBackOfQueue(int deltTime){$/;"	f
+numInQueue	req2.c	/^int numInQueue;$/;"	v
+numWithPriority	req6.c	/^int numWithPriority;$/;"	v
+numberOfJobsWithPriority	req1_b.c	/^int numberOfJobsWithPriority(int priority){$/;"	f
+priQ	req6.c	/^int priQ;$/;"	v
+printFinishOpenJob	req1_b.c	/^void printFinishOpenJob(int id, int s_time, int e_time, int priority ){$/;"	f
+printFinishOpenJob	req6.c	/^void printFinishOpenJob(int id, int s_time, int e_time, int priority, int jremoved, int jinbuf ){$/;"	f
+printFinishedJob	req1.c	/^void printFinishedJob(int id, int s_time, int e_time ){$/;"	f
+printFinishedJob	req5.c	/^void printFinishedJob(int id, int b_time, int s_time, int jremoved, int jinbuf ){$/;"	f
+printFinishedJob	req6.c	/^void printFinishedJob(int id, int b_time, int s_time ){$/;"	f
+printFinishedNewJob	req1_b.c	/^void printFinishedNewJob(int id, int s_time, int e_time, int priority ){$/;"	f
+printFinishedNewJob	req6.c	/^void printFinishedNewJob(int id, int s_time, int e_time, int priority , int jremoved, int jinbuf){$/;"	f
+printJob	req1.c	/^void printJob(int iId, int iBurstTime, int iRemainingTime, int iPriority)$/;"	f
+printJob	req1_b.c	/^void printJob(int iId, int iBurstTime, int iRemainingTime, int iPriority)$/;"	f
+printJob	req5.c	/^void printJob(int iId, int iBurstTime, int iRemainingTime)$/;"	f
+printJobDetails	req6.c	/^void printJobDetails(int iId, int iBurstTime, int iRemainingTime, int priority)$/;"	f
+printJobProduced	req6.c	/^void printJobProduced(int iId, int iBurstTime, int iRemainingTime, int priority)$/;"	f
+printJobs	req1.c	/^void printJobs()$/;"	f
+printJobs	req1_b.c	/^void printJobs()$/;"	f
+printNum	req2.c	/^void printNum(){$/;"	f
+printNum	req3.c	/^void printNum(){$/;"	f
+printNum	req4.c	/^void printNum(){$/;"	f
+printOutJob	req5.c	/^void printOutJob(int * job){$/;"	f
+printOutJob	req6.c	/^void printOutJob(int * job){$/;"	f
+printOutJobDetails	req6.c	/^void printOutJobDetails(int * job){$/;"	f
+printProgres	req1_b.c	/^void printProgres(int *job, int startTime, int iTime, int newJob){$/;"	f
+printProgres	req6.c	/^void printProgres(int *job, int startTime, int newJob, int delta_runningTime, int jobFinished){$/;"	f
+printProgressJob	req1_b.c	/^void printProgressJob(int id, int s_time, int rem_time, int priority){$/;"	f
+printProgressJob	req6.c	/^void printProgressJob(int id, int s_time, int rem_time, int priority, int jremoved, int jinbuf){$/;"	f
+printQueue	req3.c	/^void printQueue(){$/;"	f
+printQueue	req4.c	/^void printQueue(){$/;"	f
+printQueue	req6.c	/^void printQueue(){	int i; $/;"	f
+printRestartJob	req1_b.c	/^void printRestartJob(int id, int rs_time, int rem_time, int priority){$/;"	f
+printRestartJob	req6.c	/^void printRestartJob(int id, int rs_time, int rem_time, int priority, int jremoved, int jinbuf){$/;"	f
+printSem	req3.c	/^void printSem(sem_t * sem){$/;"	f
+printSem	req4.c	/^void printSem(sem_t * sem){$/;"	f
+printSem	req5.c	/^void printSem(sem_t * sem){$/;"	f
+printSem	req6.c	/^void printSem(sem_t * sem) {$/;"	f
+printSems	req2.c	/^void printSems(){$/;"	f
+printSems	req3.c	/^void printSems(){$/;"	f
+printSems	req4.c	/^void printSems(){$/;"	f
+printSems	req5.c	/^void printSems(){$/;"	f
+printSems	req6.c	/^void printSems(){$/;"	f
+priorityq	req6.c	/^void priorityq(int * job){$/;"	f
+producer	req2.c	/^void * producer(void *arg) {$/;"	f
+producer	req3.c	/^void * producer(void *arg) {$/;"	f
+producer	req4.c	/^void * producer(void *arg) {$/;"	f
+producer	req5.c	/^void * producer(void *arg) {$/;"	f
+producer	req6.c	/^void * producer(void *arg) {$/;"	f
+producerWork	req5.c	/^void producerWork(){$/;"	f
+producerWork	req6.c	/^void producerWork(){$/;"	f
+qSize	req3.c	/^int qSize;$/;"	v
+qSize	req4.c	/^int qSize;$/;"	v
+queue	req3.c	/^char queue[QUEUE_SIZE];$/;"	v
+queue	req4.c	/^char queue[QUEUE_SIZE];$/;"	v
+queue	req5.c	/^int queue[QUEUE_SIZE][4];$/;"	v
+queue	req6.c	/^int queue[QUEUE_SIZE][4];$/;"	v
+reari	req3.c	/^int reari;$/;"	v
+reari	req4.c	/^int reari;$/;"	v
+reari	req5.c	/^int reari; \/\/I use integer indexes rather than pointers to avoid pointer arithmetic bugs.$/;"	v
+reari	req6.c	/^int reari; \/\/I use integer indexes rather than pointers to avoid pointer arithmetic bugs.$/;"	v
+roundRobin	req1_b.c	/^void roundRobin(){$/;"	f
+rr_scheduler	req1_b.c	/^void rr_scheduler(){$/;"	f
+runJob	req1.c	/^void runJob(int *job){$/;"	f
+runJob	req1_b.c	/^void runJob(int iTime, int *job){$/;"	f
+runJob	req5.c	/^void runJob(int *job){$/;"	f
+runJob	req6.c	/^void runJob(int *job){$/;"	f
+sDelay_Consumer	req2.c	/^sem_t sDelay_Consumer;$/;"	v
+sDelay_Consumer	req3.c	/^sem_t sDelay_Consumer;$/;"	v
+sDelay_Consumer	req4.c	/^sem_t sDelay_Consumer;$/;"	v
+sDelay_Consumer	req5.c	/^sem_t sDelay_Consumer;$/;"	v
+sDelay_Consumer	req6.c	/^sem_t sDelay_Consumer;$/;"	v
+sDelay_Producer	req3.c	/^sem_t sDelay_Producer;$/;"	v
+sDelay_Producer	req4.c	/^sem_t sDelay_Producer;$/;"	v
+sDelay_Producer	req5.c	/^sem_t sDelay_Producer;$/;"	v
+sDelay_Producer	req6.c	/^sem_t sDelay_Producer;$/;"	v
+sSync	req2.c	/^sem_t sSync;$/;"	v
+sSync	req3.c	/^sem_t sSync;$/;"	v
+sSync	req4.c	/^sem_t sSync;$/;"	v
+sSync	req5.c	/^sem_t sSync;$/;"	v
+sSync	req6.c	/^sem_t sSync;$/;"	v
+setupSemaphores	req5.c	/^void setupSemaphores(){$/;"	f
+setupSemaphores	req6.c	/^	void setupSemaphores(){$/;"	f
+simulateJob	req1.c	/^void simulateJob(int iTime)$/;"	f
+simulateJob	req1_b.c	/^void simulateJob(int iTime)$/;"	f
+simulateJob	req5.c	/^void simulateJob(int iTime)$/;"	f
+simulateJob	req6.c	/^void simulateJob(int iTime)$/;"	f
+startConsumers	req6.c	/^	void startConsumers(){$/;"	f
+startTime	req1.c	/^int startTime[NUMBER_OF_JOBS];$/;"	v
+startTime	req1_b.c	/^int startTime[NUMBER_OF_JOBS];$/;"	v
+startTime	req5.c	/^int startTime[NUMBER_OF_JOBS];$/;"	v
+startTime	req6.c	/^int startTime[NUMBER_OF_JOBS];$/;"	v
+subTwoArrays	req1.c	/^int* subTwoArrays(int * array1, int * array2){$/;"	f
+subTwoArrays	req1_b.c	/^int* subTwoArrays(int * array1, int * array2){$/;"	f
+subTwoArrays	req6.c	/^int* subTwoArrays(int * array1, int * array2){$/;"	f
+swap	req1_b.c	/^void swap(int *a, int *b){$/;"	f
+swapRows	req1_b.c	/^void swapRows(int *a, int *b){$/;"	f
+swapRows	req6.c	/^void swapRows(int *a, int *b){$/;"	f
+threadTimes	req5.c	/^int threadTimes[NUMBER_OF_CONSUMERS];$/;"	v
+threadTimes	req6.c	/^int threadTimes[NUMBER_OF_CONSUMERS];$/;"	v
